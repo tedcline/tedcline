@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on ...
 --->
 
+- 👀 I’m interested in ... [ezRA](https://github.com/tedcline/ezRA) - Easy Radio Astronomy<br>
+
 - 📫 How to reach me ... tedClineGit@gmail.com
 
 <!---
